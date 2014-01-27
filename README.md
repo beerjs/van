@@ -1,6 +1,12 @@
 # Vancouver beer.js
 
-Next meeting: Tuesday, Jan 28, at the Alibi Room, at an as-yet-undetermined time.
+Come socialise with your programming peers; all welcome!
+
+## Upcoming
+
+**Tuesday, Jan 28** at the Alibi Room, 5:30
+
+**Tuesday, Feb 4** somewhere? sometime? See [beerjs/van#1](https://github.com/beerjs/van/issues/1)
 
 ## Keep track
 
