@@ -4,9 +4,9 @@ Come socialise with your programming peers; all welcome!
 
 ## Upcoming
 
-**Tuesday, Jan 28** at the Alibi Room, 5:30
+**Tuesday, Jan 28** at the Alibi Room, 5:30 - [beerjs/van#2](https://github.com/beerjs/van/issues/2)
 
-**Tuesday, Feb 4** somewhere? sometime? See [beerjs/van#1](https://github.com/beerjs/van/issues/1)
+**Tuesday, Feb 4** at the Alibi Room, 5:30 - [beerjs/van#1](https://github.com/beerjs/van/issues/1)
 
 ## Keep track
 
